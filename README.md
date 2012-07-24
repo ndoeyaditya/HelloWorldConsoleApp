@@ -1,4 +1,4 @@
 HelloWorldConsoleApp
 ====================
 
-test repo
+test GIT Repository
