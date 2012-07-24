@@ -18,6 +18,7 @@ namespace HelloWorldConsoleApp
             {
                 Console.WriteLine("Id: {0}", person.Id);
                 Console.WriteLine("Name: {0}", person.Name);
+                Console.WriteLine("Tanggal: {1}", person.DateOfBirth);
                 Console.WriteLine();
             }
 
