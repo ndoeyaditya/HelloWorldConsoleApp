@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using HelloWorldConsoleApp.Repository;
+using HelloWorldConsoleApp.Service;
 
 namespace HelloWorldConsoleApp
 {
@@ -11,13 +11,14 @@ namespace HelloWorldConsoleApp
             Console.WriteLine("Hello world..");
             Console.WriteLine();
 
-            var personRepo = RepositoryFactory.PersonRepository;
-            var persons = personRepo.FindAll();
+            var personService = new PersonService();
+            var persons = personService.FindAll();
 
             foreach (var person in persons)
             {
                 Console.WriteLine("Id: {0}", person.Id);
                 Console.WriteLine("Name: {0}", person.Name);
+                Console.WriteLine("Created: {0}", person.CreatedDate.ToString("MMMM dd, yyyy"));
                 Console.WriteLine();
             }
 
