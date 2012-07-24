@@ -5,3 +5,6 @@ c:\users\doedy.aditya\documents\visual studio 2010\Projects\TestConsole\HelloWor
 c:\users\doedy.aditya\documents\visual studio 2010\Projects\TestConsole\HelloWorldConsoleApp\obj\x86\Debug\HelloWorldConsoleApp.pdb
 C:\Users\Doedy.Aditya\Documents\Visual Studio 2010\Projects\TestConsole\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\x86\Debug\HelloWorldConsoleApp.exe
 C:\Users\Doedy.Aditya\Documents\Visual Studio 2010\Projects\TestConsole\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\x86\Debug\HelloWorldConsoleApp.pdb
+C:\Users\Doedy.Aditya\Documents\Visual Studio 2010\Projects\TestConsole\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+C:\Users\Doedy.Aditya\Documents\Visual Studio 2010\Projects\TestConsole\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+C:\Users\Doedy.Aditya\Documents\Visual Studio 2010\Projects\TestConsole\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
