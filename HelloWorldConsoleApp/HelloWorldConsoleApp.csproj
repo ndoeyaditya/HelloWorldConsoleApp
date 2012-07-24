@@ -51,6 +51,9 @@
     <Compile Include="Repository\IRepository.cs" />
     <Compile Include="Repository\PersonRepository.cs" />
     <Compile Include="Repository\RepositoryFactory.cs" />
+    <Compile Include="Service\IPersonService.cs" />
+    <Compile Include="Service\IService.cs" />
+    <Compile Include="Service\PersonService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
