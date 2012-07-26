@@ -1,4 +1,6 @@
-﻿namespace HelloWorldConsoleApp.Repository
+﻿using Lib.Repository;
+
+namespace HelloWorldConsoleApp.Repository
 {
     public class RepositoryFactory
     {

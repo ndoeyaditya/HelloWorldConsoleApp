@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using HelloWorldConsoleApp.Domain;
+using Lib.Domain;
 
 namespace HelloWorldConsoleApp.Service
 {

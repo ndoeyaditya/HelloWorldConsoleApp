@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorldConsoleApp.Domain
+namespace Lib.Domain
 {
     public class Person : IEntity
     {

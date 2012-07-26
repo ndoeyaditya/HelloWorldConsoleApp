@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using HelloWorldConsoleApp.Domain;
 using HelloWorldConsoleApp.Repository;
+using Lib.Domain;
+using Lib.Repository;
 
 namespace HelloWorldConsoleApp.Service
 {

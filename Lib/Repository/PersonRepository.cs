@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
-using HelloWorldConsoleApp.Domain;
+using HelloWorldConsoleApp.Repository;
+using Lib.Domain;
 
-namespace HelloWorldConsoleApp.Repository
+namespace Lib.Repository
 {
     public class PersonRepository : IPersonRepository
     {

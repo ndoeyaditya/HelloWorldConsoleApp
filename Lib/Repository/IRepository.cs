@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using HelloWorldConsoleApp.Domain;
+using Lib.Domain;
 
-namespace HelloWorldConsoleApp.Repository
+namespace Lib.Repository
 {
     public interface IRepository<TENtity> where TENtity : IEntity
     {

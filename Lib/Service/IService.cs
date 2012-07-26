@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using HelloWorldConsoleApp.Domain;
+using Lib.Domain;
 
 namespace HelloWorldConsoleApp.Service
 {

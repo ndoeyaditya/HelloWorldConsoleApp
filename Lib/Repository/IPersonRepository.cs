@@ -1,6 +1,7 @@
-﻿using HelloWorldConsoleApp.Domain;
+﻿using HelloWorldConsoleApp.Repository;
+using Lib.Domain;
 
-namespace HelloWorldConsoleApp.Repository
+namespace Lib.Repository
 {
     public interface IPersonRepository : IReadRepository<Person>
     {

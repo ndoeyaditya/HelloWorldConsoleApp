@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-namespace HelloWorldConsoleApp.Domain
+namespace Lib.Domain
 {
     public interface IEntity
     {
